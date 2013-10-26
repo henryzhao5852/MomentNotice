@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>00954556-7BAC-4B0A-AEFF-E57504355DF8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MomentNotice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99D1C4E7-3CB1-4904-AFF8-7EA474AF6C08</key>
+		<string>https://github.com/leon-lazuli/Moment-Notice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MomentNotice/MomentNotice.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99D1C4E7-3CB1-4904-AFF8-7EA474AF6C08</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/leon-lazuli/Moment-Notice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99D1C4E7-3CB1-4904-AFF8-7EA474AF6C08</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99D1C4E7-3CB1-4904-AFF8-7EA474AF6C08</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Moment-Notice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
